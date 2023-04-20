@@ -13,3 +13,4 @@ Description and links to the datasets used
 https://data.wprdc.org/dataset/pittsburgh-public-school-locations 
 - (Dorothy) The relevant information I used was the frequency of neighborhood names within the data set. In the set, it names all the different playgrounds, their street address, corresponding neighborhoods, and other information related to maintenance of said parks. 
 https://data.wprdc.org/dataset/playgrounds
+- (David) The relevant information that I used for my metric was the walk scores, which measure the amount of sidewalks in neighborhoods classified by census tract. This is the dataset: https://data.wprdc.org/dataset/allegheny-county-walk-scores
